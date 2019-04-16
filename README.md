@@ -50,4 +50,4 @@ Example based upon test set of 20% of total people in last campaign:-
 
 According to the Machine Learning Model, If we take sample of 8238 poeple contacted in last campaign, only 845 of them bought the product. Based upon the attribute of people who bought the product in last campaign we can predict before hand whether a person will buy a product or not. Out of 845 people who bought the product we can predict about 560 people who will buy the product and so we can only contact those 560 people. This will clearly reduce the marketing cost and increase propsects. 
 
-The marketing cost will reduce by 67% and propects will increase by 65%. 
+The marketing cost will reduce by 67%. The propects will increase by 55.4%
