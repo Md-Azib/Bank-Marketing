@@ -45,3 +45,9 @@ Accuracy obtained: 91.91%
 The sales team can only contact the people who are in True Positive section of the confusion matrix since they are higly likely to buy the product.
 
 Doing so will significantly reduce the budget spend on marketing since we are only contacting the people who are highly likely to buy the product. Also the marketing team can focus only on the people who has high probability of buying the product so this will also increase the sales of product.  
+
+Example based upon test set of 20% of total people in last campaign:-
+
+According to the Machine Learning Model, If we take sample of 8238 poeple contacted in last campaign, only 845 of them bought the product. Based upon the attribute of people who bought the product in last campaign we can predict before hand whether a person will buy a product or not. Out of 845 people who bought the product we can predict about 560 people who will buy the product and so we can only contact those 560 people. This will clearly reduce the marketing cost and increase propsects. 
+
+The marketing cost will reduce by 67% and propects will increase by 65%. 
