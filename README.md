@@ -30,6 +30,7 @@ This completes our data preprocessing phase
 	Classifier is trained using train dataset
 Classifier is tested using test dataset. 
 Confusion Matrix is created to evaluate the accuracy of the classifier. 
+
 Accuracy obtained: 91.91%
 	
 
