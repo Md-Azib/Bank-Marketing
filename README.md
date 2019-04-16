@@ -40,4 +40,8 @@ Accuracy obtained: 91.91%
 3. program.py : The complete model including data preprocessing, training and testing
 4. tester.py : This uses the saved classifier to create confusion matrix on test dataset(testing)
 
+# Solution to reduce the marketing cost and increase the prospects
 
+The sales team can only contact the people who are in True Positive section of the confusion matrix since they are higly likely to buy the product.
+
+Doing so will significantly reduce the budget spend on marketing since we are only contacting the people who are highly likely to buy the product. Also the marketing team can focus only on the people who has high probability of buying the product so this will also increase the sales of product.  
