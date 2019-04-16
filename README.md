@@ -32,5 +32,12 @@ Classifier is tested using test dataset.
 Confusion Matrix is created to evaluate the accuracy of the classifier. 
 
 Accuracy obtained: 91.91%
-	
+
+# Description about the content of the project
+
+1. bank-additional-full.csv : The dataset used
+2. classifier : The pickle file of the classifer to directly use the classifier without training it again
+3. program.py : The complete model including data preprocessing, training and testing
+4. tester.py : This uses the saved classifier to create confusion matrix on test dataset(testing)
+
 
