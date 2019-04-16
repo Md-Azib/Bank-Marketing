@@ -7,8 +7,10 @@ The Neural Network consists os 4 layers of the following configuration:-
 2. HiddenLayer1          
 3. HiddenLayer2         
 4. OutputLayer
-
+The accuracy obtained is: 91.95%
 
 Data Source: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
-Approach:- 
+## Approach:- 
+The complete process can be divided into 2 phases:-
+1. Data PreProcessing : 
