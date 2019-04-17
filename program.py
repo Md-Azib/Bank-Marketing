@@ -71,7 +71,7 @@ classifier.fit(X_train, y_train, batch_size=10, nb_epoch=100)
 filename = 'classifier'
 pickle.dump(classifier, open(filename, 'wb'))
 
-# Part 3 - Making the predictions and evaluating the model
+#Making the predictions and evaluating the model
 
 # Predicting the Test set results
 y_pred = classifier.predict(X_test)
